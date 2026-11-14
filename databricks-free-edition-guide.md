@@ -12,7 +12,6 @@
 **Platform**: Databricks Free Edition
 
 ### What You'll Build
-
 ```
 ┌─────────────────────────────────────────────────┐
 │            COMPLETE DATA PLATFORM                │
